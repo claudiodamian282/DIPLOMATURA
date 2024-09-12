@@ -12,5 +12,3 @@
 
 - Vemos algunas extensiones en como cambiar el lenguaje y tabnine
 - Markdown
-- Instalacion de extensiones
-- Introduccion a MarkDown
